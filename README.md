@@ -20,4 +20,3 @@ This repo includes the original files provided with each challenge along with ou
 - [@eyusufatik](https://github.com/eyusufatik)
 - [@muratkun](https://github.com/muratkun)
 - [@orkunkilic](https://github.com/orkunkilic)
-# Paradigm-CTF-2022
