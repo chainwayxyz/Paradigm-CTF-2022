@@ -1,0 +1,28 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "bytes",
+				"name": "code",
+				"type": "bytes"
+			}
+		],
+		"name": "solve",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "solved",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
